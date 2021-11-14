@@ -1,0 +1,49 @@
+h1{
+    font-size: 50px;
+}
+.color{
+    color: blue;
+}
+.color2{
+    color: orange;
+}
+.color3{
+    color: orange;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.half-div{
+    width: 40%;
+    float: left;
+   margin-left: 5%;
+   padding-left: 2%;
+
+}
+.half-div img{
+    width : 100%;
+}
+
+
+
+  
+.bg-top{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+    padding: 30px;
+}
+.button{
+    background-color: orangered;
+    border-radius: 2px;
+    text-decoration: none;
+    color: white;
+    margin: 5px 5px;
+    padding: 10px 20px;
+}
+
